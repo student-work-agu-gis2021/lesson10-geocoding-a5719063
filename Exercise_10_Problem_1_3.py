@@ -102,6 +102,8 @@ print(geodata.head())
 # 
 
 # YOUR CODE HERE 9
+
+pop=None
 # Read population grid data for 2018 into a variable `pop`. 
 
 #TEST CODE
